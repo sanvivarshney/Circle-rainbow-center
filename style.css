@@ -1,0 +1,20 @@
+.body1
+{
+    background-color: hotpink;
+    background-position: center;
+    background-size: cover;
+}
+
+h1
+{
+    color: rgb(255, 247, 176);
+    font-size: 40px; 
+    font-family: sans-serif; 
+}
+
+#canvas
+{
+    background-color: rgb(253, 254, 255);
+    border-width: 10px;
+    border-style: rich;
+}
